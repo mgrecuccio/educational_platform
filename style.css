@@ -1,0 +1,35 @@
+.navbar-brand img{
+    width: 100px;
+    height: 4
+    0px;
+}
+
+ .custom-nav{
+    backdrop-filter: blur(8px);
+ }
+
+.full-width{
+    width: 100%;
+    height: auto;
+}
+
+.feature-item img{
+    width: 50px;
+    height: auto;
+}
+
+.subscribe{
+    background-image: url(img/typing.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.brand-icon img{
+    width: auto;
+    height: 80px;
+}
+
+.blur-filter{
+    backdrop-filter: blur(8px);
+    background-color: rgb(255 255 255 /30%);
+}
